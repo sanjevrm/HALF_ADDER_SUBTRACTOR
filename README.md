@@ -18,7 +18,8 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/57ab1129-667f-4ca4-8789-12532abd5823)
+
 
 Figure -01 HALF ADDER
 
@@ -29,7 +30,8 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
+ ![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/bed14a5c-be0b-463b-aac1-4b5c1661eeef)
+
 
 Figure -02 HALF Subtractor
 
@@ -56,21 +58,29 @@ RegisterNumber: 212223040186
 ```
 ## Half Adder
 ### Program
-![program1](image-2.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/9443a692-54aa-4a8b-8578-9b90cf7c70b7)
+
 ### Truth Table
-![ttadder](image-7.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/7d6b9314-bad7-4008-b6b1-9646ca153807)
+
 ### RTL Schematic
-![adderrtl](image.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/fc959378-f2b0-4f30-89c5-da6fe7edde6e)
+
 ### Output/TIMING Waveform
-![waveformadder](image-1.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/a981f86c-51e3-4a99-8630-0e3e01631f70)
+
 ## Half Subtractor
 ### Program
-![program2](image-3.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/c0473b39-fe2f-439b-bf67-103b5156d347)
+
 ### Truth Table
-![ttsubtractor](image-6.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/f4c90062-1d81-47b2-be46-dad559c5b978)
+
 ### RTL Schematic
-![subtractor rtl](image-4.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/99ba94fe-921c-4be7-a396-7c3e41689fe1)
+
 ### Output/TIMING Waveform
-![waveform subtractor](image-5.png)
+![image](https://github.com/sanjevrm/HALF_ADDER_SUBTRACTOR/assets/155142423/170b94d0-3206-4708-8620-262555717e60)
+
 ### Result:
 Thus the program was successfully verified.
